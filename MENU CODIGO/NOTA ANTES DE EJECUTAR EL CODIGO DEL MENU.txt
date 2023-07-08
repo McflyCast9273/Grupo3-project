@@ -1,0 +1,5 @@
+EJECUTAR EN VISUAL BASIC (O EN LA IDLE DE TU PREFERENCIA Xd) este codigo
+
+pip install pygame-menu 3.4.3
+
+(la version mas actual de pygame-menu no funciona)
