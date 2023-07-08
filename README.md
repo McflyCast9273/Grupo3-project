@@ -2,6 +2,7 @@
 Proyecto del juego del grupo 3 - Curso AFC
 
 Para ejecutar el menu se debe tener instalada una version espeficia de pygame menu, la 3.4.3
+
 pip install pygame-menu==3.4.3
 
 asi mismo, tambien instalar las fuentes correspondientes que se encuentran en la carpeta del mismo menu
